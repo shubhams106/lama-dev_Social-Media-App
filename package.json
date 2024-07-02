@@ -10,7 +10,11 @@
   },
   "dependencies": {
     "babel-plugin-react-compiler": "^0.0.0-experimental-938cd9a-20240601",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-tailwindcss": "^3.17.4",
     "next": "15.0.0-rc.0",
+    "prettier": "^3.3.2",
     "react": "19.0.0-rc-f994737d14-20240522",
     "react-dom": "19.0.0-rc-f994737d14-20240522"
   },
